@@ -1,2 +1,3 @@
 venv
-dbsqlite
+*.sqlite3
+_pycache_/
